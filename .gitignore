@@ -8,5 +8,6 @@ dist/
 build/
 coverage/
 __pycache__/
+data/*.db
 *.py[cod]
 .DS_Store
